@@ -2,3 +2,5 @@
 env/*
 Location History.json
 file
+*.csv
+*.json
